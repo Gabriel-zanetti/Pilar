@@ -1,0 +1,183 @@
+
+.branco_letra{
+	color:#fff;
+
+}
+#m1m{
+	width:1800px; margin-left:200px;
+}
+
+.m1mimg{
+width:356px;
+}
+#m1m2{
+width:700px; margin-left:530px; margin-top:-55px;
+}
+
+
+.m2m1{
+	width:1800px; margin-left:23%; margin-top:-100px;  z-index:4003;
+}
+
+.m2m2{
+	width:700px; margin-left:425px; margin-top:-10px;
+}
+
+#app{
+	width: 80%;
+	margin-left: 10%;
+}
+.menuNav1From{
+	width:1000px;
+	
+	border: 1px; 
+	border-color: #fff;
+	margin-left: -28px;
+	
+}
+.colorFrom{
+	color:red !important;
+}
+.menuNav1Frombotao{
+	border: 0 none; outline: 0; background:#fff;
+}
+.menuNav1Frombotaoimg{
+	width:100px;
+	
+}
+
+.menuNav1FromLink{
+	background:#f7f7f7;  
+	border-radius: 30px;
+	width:760px;
+
+}
+.menuNav1FromLinkimg{
+	height:17px; width:17px;
+}
+
+
+.menuNav1FromLinkinput{
+	width:380px; height:20px; border: none;  background:#f7f7f7;
+
+
+} 
+a:hover {
+	color: #0d503d;
+}
+
+.imagemProduto{
+	max-width:400px;
+}
+
+.imagemProdutoApresentacao:hover{
+	
+	margin-top: -2px;
+	max-width:1000px;
+	width:650px ;
+	height:400px;
+	margin-left:-115px;
+	position:absolute;
+	z-index:4001;
+} 
+.h{
+	height: 20%;
+
+}
+#fundo{
+	width: 100% ;
+	height:100%; 
+
+	position:fixed;
+	opacity : 0.1;
+}
+.fundoMenu{
+color: #00FFFF;
+	
+}
+
+body{
+
+/*background: #fa8072; background:#a02e63;*/
+
+background: #610e72;
+
+}
+
+#loginBotao{
+	margin-left:68%; 
+
+}
+
+
+
+/* definidos*/
+.fundoNone{
+/*	background-image: url("../img/fund.png");*/
+background: none;
+	color: #FFFAFA;
+
+}
+.corletra{
+	color:  #cc9a59 !important;
+}
+
+.fundociza{
+background: none;
+color:#FFFAFA;
+}
+@media screen and  (max-width:459px){
+.menuNav1FromLinkinput{
+	width:20%;
+}
+.m3m1img{
+	width:20%;
+}
+	
+.menuNav1From{
+	background:#800080 !important;
+	width:450px;
+	
+	border: 1px; 
+	border-color: #fff;
+	margin-left: 0px;
+	
+}
+.menuNav1FromLink{
+	background:#800080 !important;
+}
+.menuNav1FromLinkinput{
+	width:220px; height:20px; border: none;  background:#800080 !important;
+
+
+
+} 
+.m3m1{
+	background:#800080 !important;
+}
+}
+
+
+
+@media screen and  (max-width:1400px){
+
+#m1m{
+	width:1800px; margin-left:0px;
+}
+#m1m2{
+width:700px; margin-left:140px; margin-top:-10px;
+}
+
+.m1mimg{
+width:170px;
+}
+
+.m2m1{
+	width:1800px; margin-left:0%; margin-top:-100px;  z-index:4003;
+}
+.m2m2{
+	width:700px; margin-left:105px; margin-top:-10px;
+}
+
+
+}
